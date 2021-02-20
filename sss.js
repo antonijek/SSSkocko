@@ -1,0 +1,1 @@
+console.log('ovo treba da ide na neku drugu granu')
